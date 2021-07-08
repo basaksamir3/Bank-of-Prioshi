@@ -6,10 +6,40 @@ body{
     padding:50px;
 }
 .submit-area{
-
     margin-top: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
     padding:40px;
     
+}
+#transction-area{
+    display:none;
+}
+.status{
+    margin: 0 20px;
+    padding:20px;
+    border-radius: 10px ;
+    text-align:center;
+    
+}
+.Deposit{
+    background-color: greenyellow;
+    
+}
+.Withdraw{
+    background-color: lightsalmon;
+}
+.Balance{
+    background-color: khaki;
+}
+.area{
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 40px;
+    box-shadow: 5px 5px 20px gray;
+
+
+}
+.amount-area{
+    margin-top: 50px;
 }
